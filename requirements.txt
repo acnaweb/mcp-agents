@@ -1,0 +1,5 @@
+pyyaml
+loguru
+pytest
+mkdocs-material
+black

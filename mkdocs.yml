@@ -1,0 +1,9 @@
+site_name: MCP Agents - GCP
+nav:
+  - Home: index.md
+  - Arquitetura: arquitetura.md
+  - Agentes: agentes.md
+  - Execução: execucao.md
+
+theme:
+  name: material
